@@ -5,4 +5,4 @@
  
  User Story 2  
  
- As a animal rights advocate, I need a database I can access in order to determine survival success and failure percentages for individual states. 
+ As a animal rights advocate, I need a database I can access in order to determine animal survival success and failure percentages for individual states. 
