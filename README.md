@@ -1,4 +1,4 @@
- Animal Rescue Locator
+ 
  
  Introduction
  
