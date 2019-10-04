@@ -5,4 +5,4 @@
  
  User Story 2  
  
- As a animal rights advocates, People will need a database they can access in order to determine animal survival success and failure percentages for individual states. 
+ As animal rights advocates, People will need a database they can access in order to determine animal survival success and failure percentages for individual states. 
