@@ -12,4 +12,3 @@
 * [x] Intended Users
  * Animal [user stories](docs/user-stories.md)
  * [Entity Relationship Diagram](docs/erd.md)
-##
