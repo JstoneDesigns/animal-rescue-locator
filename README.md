@@ -6,5 +6,5 @@
 
 ## Documentation
 * [user stories](docs/user-stories.md)
-* [Entity Relationship Diagram](docs/erd.md)
+* [Entity Relationship Diagram](docs/erd.pdf)
 * [Wireframe](docs/wireframe.md)
