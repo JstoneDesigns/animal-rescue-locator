@@ -1,3 +1,3 @@
  **Entity Relationship Diagrams**
  
- [![ERD](docs/erd.md))](docs/erd.pdf)
+ [![ERD](erd.png)](erd.pdf)

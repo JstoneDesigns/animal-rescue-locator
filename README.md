@@ -1,14 +1,10 @@
- Glossary
+ ## Summary
  
-* [X] Wireframes
-
-* [X] ERDS
-
-* [X] User Stories
-
-* [X] Description 
+ 
+## Intended Users
 
 
-* [x] Intended Users
- * Animal [user stories](docs/user-stories.md)
- * [Entity Relationship Diagram](docs/erd.md)
+## Documentation
+* [user stories](docs/user-stories.md)
+* [Entity Relationship Diagram](docs/erd.md)
+* [Wireframe](docs/wireframe.md)
